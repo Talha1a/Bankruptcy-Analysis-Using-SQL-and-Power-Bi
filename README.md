@@ -46,7 +46,8 @@ The dataset used in this analysis contains details such as:
 - External factors (e.g., market trends, competition).
 
 ### Dataset Source:
-- Available in the repository files
+- Available in the repository files and Kaggle(https://www.kaggle.com/datasets/wondermahembe/swedish-restaurant-industry-bankruptcy-dataset)
+
 
 ---
 
