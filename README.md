@@ -1,4 +1,5 @@
 # Bankruptcy Analysis Using SQL and Power BI
+![Dashboard](Dashboard%20picture.png)
 
 ## Overview
 
